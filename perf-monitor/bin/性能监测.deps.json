@@ -1,0 +1,29 @@
+{
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "性能监测/1.0.0": {
+        "runtime": {},
+        "dependencies": {
+          "Microsoft.WindowsDesktop.App.WindowsForms": "10.0.0"
+        }
+      }
+    }
+  },
+  "compilationOptions": {},
+  "libraries": {
+    "性能监测/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.WindowsDesktop.App.WindowsForms/10.0.0": {
+      "type": "package",
+      "serviceable": false,
+      "sha512": ""
+    }
+  },
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  }
+}
